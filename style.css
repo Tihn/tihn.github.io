@@ -3340,3 +3340,14 @@ textarea {
 .my-services {
     font-size: 16px;
 }
+
+.vk-icon {
+    background: lightslategrey;
+    background-image: url(/style/images/icons/social-icons.png);
+    width: 90px;
+    height: 90px;
+    background-position: 577px 0px;
+    zoom: 0.6;
+    border-radius: 47px;
+    margin: 0 auto;
+}
