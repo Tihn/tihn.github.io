@@ -11,11 +11,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="137" column="50" lean-forward="true" selection-start-line="137" selection-start-column="50" selection-end-line="137" selection-end-column="50" />
+            <state relative-caret-position="290">
+              <caret line="105" column="52" lean-forward="true" selection-start-line="105" selection-start-column="52" selection-end-line="105" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="port1-more.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ajax/port1-more.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="port2-more.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajax/port2-more.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="149" column="14" lean-forward="true" selection-start-line="149" selection-start-column="14" selection-end-line="149" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -25,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/icon-fontello.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="731">
-              <caret line="43" column="11" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="43" selection-end-column="11" />
+              <caret line="43" column="11" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="43" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -96,6 +116,7 @@
       <find>sp-image-container</find>
       <find>cbp-item</find>
       <find>ajax/</find>
+      <find>ajax</find>
     </findStrings>
     <dirStrings>
       <dir>D:\github\tihn.github.io</dir>
@@ -118,6 +139,8 @@
         <option value="$PROJECT_DIR$/blog3.html" />
         <option value="$PROJECT_DIR$/style/js/plugins.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/ajax/port1-more.html" />
+        <option value="$PROJECT_DIR$/ajax/port2-more.html" />
       </list>
     </option>
   </component>
@@ -135,7 +158,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-5" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
@@ -207,15 +230,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516913515989</updated>
-      <workItem from="1516913517261" duration="4767000" />
+      <workItem from="1516913517261" duration="5412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4767000" />
+    <option name="totallyTimeSpent" value="5412000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -276,7 +299,7 @@
     <entry file="file://$PROJECT_DIR$/icon-fontello.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
-          <caret line="43" column="11" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="43" selection-end-column="11" />
+          <caret line="43" column="11" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="43" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -323,8 +346,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="137" column="50" lean-forward="true" selection-start-line="137" selection-start-column="50" selection-end-line="137" selection-end-column="50" />
+        <state relative-caret-position="290">
+          <caret line="105" column="52" lean-forward="true" selection-start-line="105" selection-start-column="52" selection-end-line="105" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/port2-more.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="149" column="14" lean-forward="true" selection-start-line="149" selection-start-column="14" selection-end-line="149" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/port1-more.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
           <folding />
         </state>
       </provider>
