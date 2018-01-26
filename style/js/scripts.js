@@ -482,3 +482,6 @@ var instagramFeed = new Instafeed({
 $('#instafeed').each(function() {
     instagramFeed.run();
 });
+$('.click-item').click(function() {
+    location.reload();
+});
