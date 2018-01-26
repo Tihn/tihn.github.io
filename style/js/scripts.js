@@ -482,9 +482,3 @@ var instagramFeed = new Instafeed({
 $('#instafeed').each(function() {
     instagramFeed.run();
 });
-$('.click-item').click(function() {
-    setTimeout(reload(), 3000);
-});
-function reload() {
-    location.reload();
-}
