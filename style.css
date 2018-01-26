@@ -3381,3 +3381,7 @@ textarea {
     display: none;
 }
 
+.center {
+    text-align: center;
+}
+
