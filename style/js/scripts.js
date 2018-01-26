@@ -483,5 +483,8 @@ $('#instafeed').each(function() {
     instagramFeed.run();
 });
 $('.click-item').click(function() {
-    location.reload();
+    setTimeout(reload(), 3000);
 });
+function reload() {
+    location.reload();
+}
