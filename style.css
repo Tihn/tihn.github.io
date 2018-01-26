@@ -3373,3 +3373,7 @@ textarea {
     background-position: 1489px 0;
 }
 
+.hidden {
+    display: none;
+}
+
