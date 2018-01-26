@@ -3341,13 +3341,35 @@ textarea {
     font-size: 16px;
 }
 
-.vk-icon {
-    background: lightslategrey;
-    background-image: url(/style/images/icons/social-icons.png);
-    width: 90px;
-    height: 90px;
-    background-position: 577px 0px;
-    zoom: 0.6;
-    border-radius: 47px;
+.vk-icon, .fb-icon, .mail-icon, .insta-icon {
+    width: 89px;
+    height: 89px;
+    zoom: 0.5;
+    border-radius: 100px;
     margin: 0 auto;
 }
+
+.vk-icon {
+    background: cornflowerblue;
+    background-image: url(/style/images/icons/social-icons.png);
+    background-position: 577px 0;
+}
+
+.fb-icon {
+    background: royalblue;
+    background-image: url(/style/images/icons/social-icons.png);
+    background-position: 454px 0;
+}
+
+.mail-icon {
+    background: snow;
+    background-image: url(/style/images/icons/social-icons.png);
+    background-position: 577px 912px;
+}
+
+.insta-icon {
+    background: fuchsia;
+    background-image: url(/style/images/icons/social-icons.png);
+    background-position: 1489px 0;
+}
+
