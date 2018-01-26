@@ -14,43 +14,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="202" column="204" lean-forward="false" selection-start-line="202" selection-start-column="204" selection-end-line="202" selection-end-column="204" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="3382" column="0" lean-forward="false" selection-start-line="3382" selection-start-column="0" selection-end-line="3382" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon-fontello.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/icon-fontello.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="2586" column="37" lean-forward="false" selection-start-line="2586" selection-start-column="37" selection-end-line="2586" selection-end-column="37" />
-              <folding>
-                <element signature="e#109510#109514#0" expanded="true" />
-                <element signature="e#109538#109542#0" expanded="true" />
-                <element signature="e#109542#109546#0" expanded="true" />
-                <element signature="e#109548#109552#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fontello.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style/type/fontello.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="394" column="48" lean-forward="false" selection-start-line="394" selection-start-column="41" selection-end-line="394" selection-end-column="48" />
+            <state relative-caret-position="103">
+              <caret line="312" column="22" lean-forward="true" selection-start-line="312" selection-start-column="22" selection-end-line="312" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -89,6 +54,7 @@
       <find>class=&quot;social&quot;</find>
       <find>text-align</find>
       <find>.center</find>
+      <find>social</find>
     </findStrings>
     <replaceStrings>
       <replace>Уголок вдохновения</replace>
@@ -209,12 +175,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516913515989</updated>
-      <workItem from="1516913517261" duration="13456000" />
+      <workItem from="1516913517261" duration="13676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13456000" />
+    <option name="totallyTimeSpent" value="13676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -402,8 +368,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="202" column="204" lean-forward="false" selection-start-line="202" selection-start-column="204" selection-end-line="202" selection-end-column="204" />
+        <state relative-caret-position="103">
+          <caret line="312" column="22" lean-forward="true" selection-start-line="312" selection-start-column="22" selection-end-line="312" selection-end-column="22" />
           <folding />
         </state>
       </provider>
