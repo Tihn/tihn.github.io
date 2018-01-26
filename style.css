@@ -3373,6 +3373,10 @@ textarea {
     background-position: 1489px 0;
 }
 
+.footer-icon {
+    zoom: 0.3;
+}
+
 .hidden {
     display: none;
 }
